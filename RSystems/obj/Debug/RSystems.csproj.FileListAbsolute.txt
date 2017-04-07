@@ -1,0 +1,30 @@
+D:\RSystems\RSystems\bin\Debug\RSystems.exe.config
+D:\RSystems\RSystems\bin\Debug\RSystems.exe
+D:\RSystems\RSystems\bin\Debug\RSystems.pdb
+D:\RSystems\RSystems\obj\Debug\RSystems.csprojResolveAssemblyReference.cache
+D:\RSystems\RSystems\obj\Debug\RSystems.Properties.Resources.resources
+D:\RSystems\RSystems\obj\Debug\RSystems.csproj.GenerateResource.Cache
+D:\RSystems\RSystems\obj\Debug\RSystems.exe.licenses
+D:\RSystems\RSystems\obj\Debug\RSystems.exe
+D:\RSystems\RSystems\obj\Debug\RSystems.pdb
+D:\RSystems\RSystems\obj\Debug\RSystems.Form_Sale_display.resources
+D:\RSystems\RSystems\obj\Debug\RSystems.Form_Main.resources
+D:\RSystems\RSystems\obj\Debug\RSystems.Form_Login.resources
+G:\RSystems\RSystems\bin\Debug\RSystems.exe.config
+G:\RSystems\RSystems\obj\Debug\RSystems.exe
+G:\RSystems\RSystems\bin\Debug\RSystems.exe
+G:\RSystems\RSystems\bin\Debug\RSystems.pdb
+G:\RSystems\RSystems\obj\Debug\RSystems.csprojResolveAssemblyReference.cache
+G:\RSystems\RSystems\obj\Debug\RSystems.Form_Login.resources
+G:\RSystems\RSystems\obj\Debug\RSystems.Form_Main.resources
+G:\RSystems\RSystems\obj\Debug\RSystems.Form_Sale_display.resources
+G:\RSystems\RSystems\obj\Debug\RSystems.Properties.Resources.resources
+G:\RSystems\RSystems\obj\Debug\RSystems.csproj.GenerateResource.Cache
+G:\RSystems\RSystems\obj\Debug\RSystems.exe.licenses
+G:\RSystems\RSystems\obj\Debug\RSystems.pdb
+C:\Users\Ramin\Desktop\RSystems\RSystems\bin\Debug\RSystems.exe.config
+C:\Users\Ramin\Desktop\RSystems\RSystems\obj\Debug\RSystems.exe
+C:\Users\Ramin\Desktop\RSystems\RSystems\obj\Debug\RSystems.pdb
+C:\Users\Ramin\Desktop\RSystems 1.0.2\RSystems\bin\Debug\RSystems.exe.config
+C:\Users\Ramin\Desktop\RSystems 1.0.2\RSystems\obj\Debug\RSystems.exe
+C:\Users\Ramin\Desktop\RSystems 1.0.2\RSystems\obj\Debug\RSystems.pdb
